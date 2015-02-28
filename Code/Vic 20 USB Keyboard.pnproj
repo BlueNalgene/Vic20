@@ -1,0 +1,1 @@
+<Project name="Vic 20 USB Keyboard"><File path="Makefile"></File><File path="usb_keyboard.c"></File><File path="usb_keyboard.h"></File><File path="Vic20_usb_keyboard.c"></File></Project>
