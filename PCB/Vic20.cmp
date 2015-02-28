@@ -1,0 +1,17 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 2/27/2015 2:32:39 PM
+
+BeginCmp
+TimeStamp = /54F0CA3B;
+Reference = P1;
+ValeurCmp = CONN_20X2;
+IdModule  = DIP-40__600;
+EndCmp
+
+BeginCmp
+TimeStamp = /54F0CA2C;
+Reference = P2;
+ValeurCmp = CONN_20;
+IdModule  = pinhead-1-1X20;
+EndCmp
+
+EndListe
